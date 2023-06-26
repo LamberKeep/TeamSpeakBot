@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Bot" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.github.LamberKeep.TeamSpeakBot.Main" />
+    <module name="TeamSpeakBot" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
